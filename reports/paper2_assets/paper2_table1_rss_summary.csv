@@ -1,0 +1,8 @@
+Metric,Value
+NVD slice CVEs (N),170006.0
+KEV positives,829.0
+RSS-only CTI coverage (cti_first_seen non-null),29.0
+RSS-only CTI coverage share,0.00017058221474536192
+KEV positives with any RSS CTI signal,4.0
+KEV positives with CTI before KEV (lead_days>0),0.0
+Early-warning share among KEV+CTI,0.0
